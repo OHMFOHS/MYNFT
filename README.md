@@ -1,6 +1,8 @@
 Part B:
 Integrate ERC1155 As new contract and Users can deploy ERC1155 tokens as NFTs now.
 Using hardhat to compile and remix to delpoy new contract:
+UI to choose Token Types
+![alt text](20.png)
 ![alt text](<48.png>)
 ![alt text](<57.png>)
 ![alt text](<131.png>)
